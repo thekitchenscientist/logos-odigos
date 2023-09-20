@@ -1,2 +1,8 @@
 # logos-odigos
-Investigating ways to explore a text based on vector similarity, graph nodes, geospatial and relational data
+Investigating ways to explore a text based on NLP techniques (word clouds, sentiment analysis, named entity recognition, topic modeling, keyword extraction), vector similarity, graph nodes, geospatial data, relational data, retreval augmented generation with large language models, personas for Solo Preformance Prompting (SPP) and more. 
+
+The Bible is an interesting collection of 66 books grounded in history and geography. It covers a variety of literary styles and has been adapted to a wide range of mediums, audiences and languages (>2000). There are databases of the people and places mentioned in the text (along with estimated geospatial coordinates), databases of the ~300k cross references between the books and multiple public domain translations. This provides an interesting case study for applying the various techniques and collating a coherent set of meta-data.
+
+The starting point for this project has been the Berean Standard Bible (https://bereanbible.com/) which was commited to the public domain on April 30, 2023. This English translation falls between the ESV and NIV 1984 in wording and approach. I've also been influenced by 'The Books of The Bible' (https://www.biblica.com/). From 2003-2007 Biblica researched an alternative arrangement of the Biblical books which did away with the additions of subheadings, chapter numbers and verse numbers, and looked again at how the books could be grouped.
+
+The aim of this project is to build on these ideas to create modes of navigating the text unbound by the conventions/restrictions of the printed form. The apps and experiments at https://viz.bible/ and https://www.openbible.info/ have been a source of inspiration and I am grateful to both projects for their free provision of the meta-data they have gathered/created.
